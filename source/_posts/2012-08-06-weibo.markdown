@@ -4,4 +4,24 @@ title: "weibo"
 date: 2012-08-06 14:10
 comments: true
 categories: 
+original: true
 ---
+## 这是有关一篇微博的文章 ##
+
+```javascript
+var f=function(){
+    return 'hello world';
+}
+```
+
+```c#
+class Hello
+{
+    public Hello(){}
+    
+    public string SayHell(string name)
+    {
+        return "Hello "+name;
+    }
+}
+```

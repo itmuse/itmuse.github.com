@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: itmuse@gmail.com
 # RSS feeds can list your email address if you like
-email:
+email: itmuse@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -58,10 +58,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: itmuse
-github_repo_count: 3
-github_show_profile_link: true
-github_skip_forks: true
+# github_user: itmuse
+# github_repo_count: 3
+# github_show_profile_link: true
+# github_skip_forks: true
 
 # Twitter
 # twitter_user:
@@ -72,25 +72,25 @@ github_skip_forks: true
 # twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
-google_plus_one_size: medium
+# google_plus_one: false
+# google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: itmuse@gmail.com
-googleplus_hidden: false
+# googleplus_user: itmuse@gmail.com
+# googleplus_hidden: false
 
 # Pinboard
 # pinboard_user:
 # pinboard_count: 3
 
 # Delicious
-delicious_user: itmuse@gmail.com
-delicious_count: 3
+# delicious_user: itmuse@gmail.com
+# delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: User Comments
-disqus_show_comment_count: false
+disqus_show_comment_count: 15
 
 # Google Analytics
 google_analytics_tracking_id:

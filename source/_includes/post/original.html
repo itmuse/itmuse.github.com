@@ -1,0 +1,26 @@
+<style>
+div#license_info {
+    background-color: #F8F8EE;
+    border: 1px solid #E8E7D0;
+    color: #666666;
+    margin-bottom: 10px;
+    margin-top: -15px;
+    min-height: 10px;
+    height:45px;
+    padding: 5px 10px 0;
+}
+div#license_info img {
+    margin: 5px 8px 0 0;
+}
+div#license_info p {
+    margin: 10px auto;
+    text-indent: 0;
+    font: 12px/18px Verdana,"Lucida Grande",Geneva,Arial,sans-serif;
+}
+</style>
+{% if post.original or page.original %}
+    <div class="meta" id="license_info">
+        <a rel="license" href="http://creativecommons.org/licenses/by/2.5/cn/" target="_blank"><img align="left" alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by/2.5/cn/88x31.png" /></a>
+        <p>本文基于<a href="http://creativecommons.org/licenses/by/2.5/cn/" title="Creative Commons Attribution 2.5 China Mainland License" target="_blank">署名 2.5 中国大陆</a>许可协议发布，欢迎转载，演绎或用于商业目的，但必须保留本文的署名 <a href="http://osgeek.me">Hyson Wu</a> (包括链接)</p>
+    </div>
+{% endif %}
