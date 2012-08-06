@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hyson's blog]]></title>
+  <link href="http://itmuse.github.com/atom.xml" rel="self"/>
+  <link href="http://itmuse.github.com/"/>
+  <updated>2012-08-06T12:14:09+08:00</updated>
+  <id>http://itmuse.github.com/</id>
+  <author>
+    <name><![CDATA[Hyson Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[create new blog via octopress]]></title>
+    <link href="http://itmuse.github.com/blog/2012/08/06/create-new-blog-via-octopress/"/>
+    <updated>2012-08-06T12:00:00+08:00</updated>
+    <id>http://itmuse.github.com/blog/2012/08/06/create-new-blog-via-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
