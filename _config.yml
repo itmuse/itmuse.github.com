@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://itmuse.github.com
-title: Hyson's blog
-subtitle: A coder
+url: http://osgeek.me
+title: Hyson's Blog
+subtitle: A programmer and insist every writing code. 
 author: Hyson Wu
 simple_search: http://google.com/search
 description:
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email: itmuse@gmail.com
+subscribe_email: 
 # RSS feeds can list your email address if you like
 email: itmuse@gmail.com
 
@@ -27,7 +27,8 @@ email: itmuse@gmail.com
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+# permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 source: source
 destination: public
 plugins: plugins
@@ -38,7 +39,7 @@ pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
+recent_posts: 8       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to titlecase
@@ -58,10 +59,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-# github_user: itmuse
-# github_repo_count: 3
-# github_show_profile_link: true
-# github_skip_forks: true
+github_user: itmuse
+github_repo_count: 3
+github_show_profile_link: true
+github_skip_forks: true
 
 # Twitter
 # twitter_user:
@@ -72,16 +73,16 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # twitter_tweet_button: true
 
 # Google +1
-# google_plus_one: false
-# google_plus_one_size: medium
+google_plus_one: true
+google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-# googleplus_user: itmuse@gmail.com
-# googleplus_hidden: false
+googleplus_user: itmuse@gmail.com
+googleplus_hidden: false
 
 # Pinboard
-# pinboard_user:
+# pinboard_user: itmuse@gmail.com
 # pinboard_count: 3
 
 # Delicious
@@ -89,7 +90,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: User Comments
+disqus_short_name: hysonblog
 disqus_show_comment_count: 15
 
 # Google Analytics
