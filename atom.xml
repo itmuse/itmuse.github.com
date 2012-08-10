@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Hyson's blog]]></title>
-  <link href="http://itmuse.github.com/atom.xml" rel="self"/>
-  <link href="http://itmuse.github.com/"/>
-  <updated>2012-08-07T14:43:47+08:00</updated>
-  <id>http://itmuse.github.com/</id>
+  <title><![CDATA[Hyson's Blog]]></title>
+  <link href="http://osgeek.me/atom.xml" rel="self"/>
+  <link href="http://osgeek.me/"/>
+  <updated>2012-08-10T16:08:58+08:00</updated>
+  <id>http://osgeek.me/</id>
   <author>
     <name><![CDATA[Hyson Wu]]></name>
     <email><![CDATA[itmuse@gmail.com]]></email>
@@ -14,79 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[google products]]></title>
-    <link href="http://itmuse.github.com/blog/2012/08/06/google-products/"/>
-    <updated>2012-08-06T18:39:00+08:00</updated>
-    <id>http://itmuse.github.com/blog/2012/08/06/google-products</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Go lang tutoral]]></title>
-    <link href="http://itmuse.github.com/blog/2012/08/06/go-lang-tutoral/"/>
-    <updated>2012-08-06T18:17:00+08:00</updated>
-    <id>http://itmuse.github.com/blog/2012/08/06/go-lang-tutoral</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[weibo]]></title>
-    <link href="http://itmuse.github.com/blog/2012/08/06/weibo/"/>
-    <updated>2012-08-06T14:10:00+08:00</updated>
-    <id>http://itmuse.github.com/blog/2012/08/06/weibo</id>
-    <content type="html"><![CDATA[<h2>这是有关一篇微博的文章</h2>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">var</span> <span class="nx">f</span><span class="o">=</span><span class="kd">function</span><span class="p">(){</span>
-</span><span class='line'>    <span class="k">return</span> <span class="s1">&#39;hello world&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-</pre></td><td class='code'><pre><code class='c#'><span class='line'><span class="k">class</span> <span class="nc">Hello</span>
-</span><span class='line'><span class="p">{</span>
-</span><span class='line'>    <span class="k">public</span> <span class="nf">Hello</span><span class="p">(){}</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="k">public</span> <span class="kt">string</span> <span class="nf">SayHell</span><span class="p">(</span><span class="kt">string</span> <span class="n">name</span><span class="p">)</span>
-</span><span class='line'>    <span class="p">{</span>
-</span><span class='line'>        <span class="k">return</span> <span class="s">&quot;Hello &quot;</span><span class="p">+</span><span class="n">name</span><span class="p">;</span>
-</span><span class='line'>    <span class="p">}</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[create new blog via octopress]]></title>
-    <link href="http://itmuse.github.com/blog/2012/08/06/create-new-blog-via-octopress/"/>
-    <updated>2012-08-06T12:00:00+08:00</updated>
-    <id>http://itmuse.github.com/blog/2012/08/06/create-new-blog-via-octopress</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Go ]]></title>
-    <link href="http://itmuse.github.com/blog/2011/08/06/Go-lang/"/>
-    <updated>2011-08-06T14:10:00+08:00</updated>
-    <id>http://itmuse.github.com/blog/2011/08/06/Go-lang</id>
-    <content type="html"><![CDATA[<h2>Go</h2>
+    <title type="html"><![CDATA[开始写我的个人博客啦]]></title>
+    <link href="http://osgeek.me/blog/begin-writting-my-blog/"/>
+    <updated>2012-03-10T14:39:00+08:00</updated>
+    <id>http://osgeek.me/blog/begin-writting-my-blog</id>
+    <content type="html"><![CDATA[<p>我的个人博客是基于octopress，搭建在github上的。</p>
 ]]></content>
   </entry>
   
