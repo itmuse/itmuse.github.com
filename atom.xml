@@ -4,7 +4,7 @@
   <title><![CDATA[Hyson's Blog]]></title>
   <link href="http://osgeek.me/atom.xml" rel="self"/>
   <link href="http://osgeek.me/"/>
-  <updated>2012-08-10T16:13:29+08:00</updated>
+  <updated>2012-08-10T16:16:44+08:00</updated>
   <id>http://osgeek.me/</id>
   <author>
     <name><![CDATA[Hyson Wu]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[update blog content]]></title>
+    <link href="http://osgeek.me/blog/update-blog-content/"/>
+    <updated>2012-08-10T16:16:00+08:00</updated>
+    <id>http://osgeek.me/blog/update-blog-content</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[开始写我的个人博客啦]]></title>
